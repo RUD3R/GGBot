@@ -1,2 +1,0 @@
-# GGBot
- gg
